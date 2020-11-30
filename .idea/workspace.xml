@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa2cb32-aa92-479b-8901-dad18fae98cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/errors/not-authorized-error.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/errors/not-authorized-error.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="gke_ticketing-dev-291406_asia-east1-a_ticketing-dev" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1keXTYvZ1IfchPwefRBXOVPq3QV" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa2cb32-aa92-479b-8901-dad18fae98cc" name="Default Changelist" comment="" />
+      <created>1606062038394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606062038394</updated>
+      <workItem from="1606062039437" duration="163000" />
+      <workItem from="1606062273978" duration="1296000" />
+      <workItem from="1606311054741" duration="1213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="248" width="596" height="486" key="find.popup" timestamp="1606672219679">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="470" y="248" width="596" height="486" key="find.popup/0.23.1536.937@0.23.1536.937" timestamp="1606672219679" />
+  </component>
+</project>
